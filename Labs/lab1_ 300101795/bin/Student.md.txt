@@ -1,0 +1,16 @@
+Student name: Sawadogo Marie Fabienne
+Student number: 300101795
+Course code: ITI1125
+Lab: lab 11
+Course section: 02
+Java: 1.8
+
+
+
+
+Student name: Berte Tata
+Student number: 300100935
+Course code: ITI1521
+Assignment: Asg02
+Course section: 02
+Java: 1.8
